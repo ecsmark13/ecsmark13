@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ecsmark13
+- 👀 I’m interested in making games
+- 🌱 I’m currently learning c# and Unity
+- 💞️ I’m looking to collaborate on my game
+- 📫 ecsmarksthespot@gmail.com
